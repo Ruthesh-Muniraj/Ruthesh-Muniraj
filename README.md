@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/ruthesh-muniraj/)](https://www.linkedin.com/in/ruthesh-muniraj/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/rutheshmuniraj)](https://twitter.com/rutheshmuniraj)
-[![Outlook Badge](https://img.shields.io/badge/Outlook-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:rutheshmuniraj@outlook.com)](mailto:rutheshmuniraj@outlook.com.com)
+[![Email Badge](https://img.shields.io/badge/Email-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:rutheshmuniraj@outlook.com)](mailto:rutheshmuniraj@outlook.com.com)
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
 
