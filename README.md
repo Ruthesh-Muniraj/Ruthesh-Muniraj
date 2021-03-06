@@ -6,7 +6,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://user-images.githubusercontent.com/47059855/109988952-0c1b1080-7d2e-11eb-8301-7c745059fb97.gif" width="22px">
 
-<samp>I'm Ruthesh Muniraj, Citizen of greater India <sub>IN</sub> , currently I'm a Web Developer <img src="https://user-images.githubusercontent.com/47059855/109989222-500e1580-7d2e-11eb-9372-9d9cfc4d7112.gif" width="30px"> in Chennai, passionate about solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
+<samp>I'm Ruthesh Muniraj, Citizen of greater India <sub>IN</sub> , currently I'm a Web Developer <img src="https://user-images.githubusercontent.com/47059855/109989222-500e1580-7d2e-11eb-9372-9d9cfc4d7112.gif" width="30px"> in Chennai, passionate about solving problems with technology and creating different solutions.</samp><img src="https://user-images.githubusercontent.com/47059855/110195637-8f3e8280-7e64-11eb-90e3-74c18617c70d.gif" width="24">
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
